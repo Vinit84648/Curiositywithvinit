@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vinit Pradeep Shukla | Math & Physics Tutor</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header { background: #1e90ff; color: #fff; padding: 20px 0; text-align: center; }
+    nav { background: #333; color: white; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    .container { padding: 20px; max-width: 1000px; margin: auto; }
+    .section { margin-bottom: 40px; }
+    .btn { display: inline-block; background: #1e90ff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+    footer { background: #f4f4f4; text-align: center; padding: 20px; margin-top: 40px; }
+    iframe { width: 100%; height: 600px; border: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Master Math & Physics with Vinit Sir</h1>
+    <p>Personalized tutoring for Grades 8–12 | CBSE, ICSE, IGCSE, A Level & IB</p>
+    <p><strong>Online & Offline (Mumbai) | Free Trial Available</strong></p>
+    <a class="btn" href="https://wa.me/917977369836" target="_blank">WhatsApp Me</a>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#classes">Classes</a>
+    <a href="#contact">Contact</a>
+    <a href="#reviews">Reviews</a>
+    <a href="#blog">Blog</a>
+  </nav>
+
+  <div class="container">
+    <section id="about" class="section">
+      <h2>About Vinit Sir</h2>
+      <p><strong>Name:</strong> Vinit Pradeep Shukla</p>
+      <p><strong>Qualifications:</strong> M.Sc. Physics & B.Ed. from Mumbai University</p>
+      <p><strong>Experience:</strong> 8+ years teaching Math & Physics</p>
+      <p><strong>Specialized Boards:</strong> CBSE, ICSE, IGCSE, A Level, IB</p>
+      <p><strong>Teaching Mode:</strong> Online (anywhere) & Offline (Mumbai)</p>
+      <p><strong>Preferred Timings:</strong> Online classes after 8 PM</p>
+    </section>
+
+    <section id="classes" class="section">
+      <h2>Subjects & Classes</h2>
+      <ul>
+        <li>Math and Physics for Grades 8–12</li>
+        <li>Boards: CBSE, ICSE, IGCSE, A Level, IB</li>
+        <li>Modes: One-on-One & Group</li>
+        <li>Free Trial Class Available</li>
+      </ul>
+    </section>
+
+    <section id="contact" class="section">
+      <h2>Contact & Booking</h2>
+      <p><strong>WhatsApp:</strong> <a href="https://wa.me/917977369836" target="_blank">+91 7977369836</a></p>
+      <p><strong>Email:</strong> curiositywithvinit@gmail.com</p>
+      <p><strong>Location:</strong> Mumbai (for offline classes)</p>
+      <h3>Request a Class</h3>
+      <iframe src="https://docs.google.com/forms/d/e/YOUR_GOOGLE_FORM_ID/viewform?embedded=true">Loading…</iframe>
+    </section>
+
+    <section id="reviews" class="section">
+      <h2>Student & Parent Reviews</h2>
+      <p>Coming soon...</p>
+    </section>
+
+    <section id="blog" class="section">
+      <h2>Blog</h2>
+      <ul>
+        <li>Top 5 Tricks to Score 90+ in Physics</li>
+        <li>A-Level vs. IB – Which Is Harder for Math?</li>
+        <li>How to Make Study Timetables That Actually Work</li>
+      </ul>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Vinit Pradeep Shukla | Math & Physics Tutoring</p>
+    <p><a href="mailto:curiositywithvinit@gmail.com">curiositywithvinit@gmail.com</a></p>
+  </footer>
+</body>
+</html>
