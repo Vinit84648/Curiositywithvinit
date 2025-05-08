@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Curiosity With Vinit</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Curiosity With Vinit</h1>
+    <p>Explore Physics, Math, and the Joy of Learning</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Me</a>
+    <a href="#blog">Blog</a>
+    <a href="#worksheets">Worksheets</a>
+    <a href="#reviews">Student Stories</a>
+    <a href="#contact">Book a Class</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m Vinit, a passionate tutor helping students succeed in Physics and Math (IGCSE, A Levels, IB). Let's spark curiosity and build strong foundations!</p>
+  </section>
+
+  <section id="blog">
+    <h2>Latest Lessons</h2>
+    <ul>
+      <li><a href="#">Understanding Newton's Laws</a></li>
+      <li><a href="#">What is a Derivative?</a></li>
+    </ul>
+  </section>
+
+  <section id="worksheets">
+    <h2>Free Worksheets</h2>
+    <p>Download printable practice sheets for Grade 8–12 students.</p>
+    <a href="#">📄 Distance-Time Graphs (PDF)</a>
+  </section>
+
+  <section id="reviews">
+    <h2>Student Success Stories</h2>
+    <blockquote>
+      “Vinit Sir helped me jump from a C to an A in Physics in just 3 months!”
+    </blockquote>
+    <blockquote>
+      “His passion is contagious. Learning math is fun now!”
+    </blockquote>
+  </section>
+
+  <section id="contact">
+    <h2>Book a Class</h2>
+    <p>Fill out the form to request a class or ask a question:</p>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfSampleFormLink/viewform?embedded=true" width="100%" height="600" frameborder="0">Loading…</iframe>
+  </section>
+
+  <footer>
+    <p>© 2025 Curiosity With Vinit | All rights reserved.</p>
+  </footer>
+</body>
+</html>
